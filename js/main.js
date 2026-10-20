@@ -1,6 +1,6 @@
 /**
  * MAESTRO SOLUCIONES - JAVASCRIPT PRINCIPAL
- * Taller de Herrería, Estructuras Metálicas y Remodelaciones
+ * Drywall, Cristalería y Aluminio
  * Teléfono / WhatsApp: 0424-1878706 | Instagram: @maestro_soluciones
  * Guarenas · Guatire · Caracas · Estado Miranda
  */
