@@ -1,0 +1,623 @@
+[
+  {
+    "orig": "11211.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "techo-metalico-abierto.jpeg",
+    "path": "img/galeria/estructuras-techos/techo-metalico-abierto.jpeg",
+    "title": "Estructura Metálica de Techo",
+    "description": "Armazón abierto de perfiles metálicos para techado."
+  },
+  {
+    "orig": "1122.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "vigas-metalicas-exterior.jpeg",
+    "path": "img/galeria/estructuras-techos/vigas-metalicas-exterior.jpeg",
+    "title": "Vigas Metálicas en Exterior",
+    "description": "Instalación de vigas de soporte estructural."
+  },
+  {
+    "orig": "12.jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "rejas-ventanas-taller.jpeg",
+    "path": "img/galeria/herreria/rejas-ventanas-taller.jpeg",
+    "title": "Rejas de Protección para Ventana",
+    "description": "Fabricación de rejas de seguridad en perfiles de acero."
+  },
+  {
+    "orig": "2.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "techo-estructura-exterior.jpeg",
+    "path": "img/galeria/estructuras-techos/techo-estructura-exterior.jpeg",
+    "title": "Techo y Cerchas Exteriores",
+    "description": "Montaje de estructura metálica perimetral."
+  },
+  {
+    "orig": "21.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "techo-laminas-rojas.jpeg",
+    "path": "img/galeria/estructuras-techos/techo-laminas-rojas.jpeg",
+    "title": "Instalación de Techo Rojo",
+    "description": "Cubierta metálica acanalada instalada sobre perfiles."
+  },
+  {
+    "orig": "2111.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "estructura-galpon-techo.jpeg",
+    "path": "img/galeria/estructuras-techos/estructura-galpon-techo.jpeg",
+    "title": "Estructura de Galpón y Techo",
+    "description": "Fabricación de armazón completo para galpón comercial."
+  },
+  {
+    "orig": "2121.jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "reja-metalica-plana.jpeg",
+    "path": "img/galeria/herreria/reja-metalica-plana.jpeg",
+    "title": "Panel de Reja de Seguridad",
+    "description": "Reja de acero reforzado soldada y nivelada en taller."
+  },
+  {
+    "orig": "21212.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "techo-acerolit-rojo.jpeg",
+    "path": "img/galeria/estructuras-techos/techo-acerolit-rojo.jpeg",
+    "title": "Techo Metálico Acanalado",
+    "description": "Montaje de techo protector impermeable."
+  },
+  {
+    "orig": "2212.jpeg",
+    "category": "remodelacion-obras",
+    "category_label": "Remodelación y Obras",
+    "filename": "albanileria-pared.jpeg",
+    "path": "img/galeria/remodelacion-obras/albanileria-pared.jpeg",
+    "title": "Mampostería y Obra Civil",
+    "description": "Levantamiento y adecuación de paredes de bloque."
+  },
+  {
+    "orig": "2221.jpeg",
+    "category": "remodelacion-obras",
+    "category_label": "Remodelación y Obras",
+    "filename": "construccion-meson-barra.jpeg",
+    "path": "img/galeria/remodelacion-obras/construccion-meson-barra.jpeg",
+    "title": "Construcción de Barra y Mesón",
+    "description": "Obra de remodelación de área social y mesón."
+  },
+  {
+    "orig": "3.jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "reja-metalica-blanca.jpeg",
+    "path": "img/galeria/herreria/reja-metalica-blanca.jpeg",
+    "title": "Reja Metálica Esmaltada",
+    "description": "Protección perimetral con acabado esmaltado blanco."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.50 PM (1).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "torre-tanque-elevado-1.jpeg",
+    "path": "img/galeria/estructuras-techos/torre-tanque-elevado-1.jpeg",
+    "title": "Torre Elevada para Tanque",
+    "description": "Estructura de gran altura con soporte de tanque y caseta."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.50 PM (2).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "pilares-metalicos-exterior.jpeg",
+    "path": "img/galeria/estructuras-techos/pilares-metalicos-exterior.jpeg",
+    "title": "Pilares de Soporte Metálico",
+    "description": "Pilares tubulares de carga fijados en bases de concreto."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.50 PM (3).jpeg",
+    "category": "remodelacion-obras",
+    "category_label": "Remodelación y Obras",
+    "filename": "techo-machimbrado-madera.jpeg",
+    "path": "img/galeria/remodelacion-obras/techo-machimbrado-madera.jpeg",
+    "title": "Techo Machimbrado y Madera",
+    "description": "Remodelación de techo rústico con vigas de soporte."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.50 PM (4).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "cerramiento-malla-tubo.jpeg",
+    "path": "img/galeria/herreria/cerramiento-malla-tubo.jpeg",
+    "title": "Cerramiento Perimetral con Malla",
+    "description": "Marco tubular con cerramiento de malla de seguridad."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.50 PM.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "torre-tanque-elevado-2.jpeg",
+    "path": "img/galeria/estructuras-techos/torre-tanque-elevado-2.jpeg",
+    "title": "Torre Metálica con Escalera",
+    "description": "Soporte estructural para tanque de agua y escalera de gato."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.51 PM.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "estructura-al-aire-libre.jpeg",
+    "path": "img/galeria/estructuras-techos/estructura-al-aire-libre.jpeg",
+    "title": "Estructura de Gran Envergadura",
+    "description": "Montaje de pórticos de acero en sitio."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.53 PM (1).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "estanteria-rack-pesado.jpeg",
+    "path": "img/galeria/herreria/estanteria-rack-pesado.jpeg",
+    "title": "Rack y Estantería Pesada",
+    "description": "Estructura de herrería para almacenaje y carga pesada."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.53 PM (2).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "cercha-pared-ladrillo.jpeg",
+    "path": "img/galeria/estructuras-techos/cercha-pared-ladrillo.jpeg",
+    "title": "Cercha Metálica sobre Muro",
+    "description": "Estructura reticulada anclada a pared de ladrillo."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.53 PM.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "viga-montaje-techo.jpeg",
+    "path": "img/galeria/estructuras-techos/viga-montaje-techo.jpeg",
+    "title": "Montaje de Vigas de Techo",
+    "description": "Fijación de vigas principales para cubierta."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.54 PM (1).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "reja-perimetral-puerta.jpeg",
+    "path": "img/galeria/herreria/reja-perimetral-puerta.jpeg",
+    "title": "Reja y Puerta Perimetral",
+    "description": "Conjunto de cerramiento y puerta de seguridad."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.54 PM (2).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "porton-lamas-horizontales.jpeg",
+    "path": "img/galeria/herreria/porton-lamas-horizontales.jpeg",
+    "title": "Portón Moderno de Franjas",
+    "description": "Portón en perfiles de acero horizontales de diseño contemporáneo."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.54 PM (3).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "torre-vigilancia-tanque.jpeg",
+    "path": "img/galeria/estructuras-techos/torre-vigilancia-tanque.jpeg",
+    "title": "Torre Elevada de Vigilancia",
+    "description": "Estructura de celosía metálica con mirador."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.54 PM (4).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "porton-grande-laminas.jpeg",
+    "path": "img/galeria/herreria/porton-grande-laminas.jpeg",
+    "title": "Portón de Gran Dimensión",
+    "description": "Portón de dos hojas para entrada vehicular principal."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.54 PM (5).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "puerta-seguridad-taller.jpeg",
+    "path": "img/galeria/herreria/puerta-seguridad-taller.jpeg",
+    "title": "Puerta de Seguridad Reforzada",
+    "description": "Fabricación de puerta con bastidor de acero y cerradura embutida."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.54 PM.jpeg",
+    "category": "taller-reparaciones",
+    "category_label": "Taller y Soldadura",
+    "filename": "perfiles-tubulares-taller.jpeg",
+    "path": "img/galeria/taller-reparaciones/perfiles-tubulares-taller.jpeg",
+    "title": "Corte y Habilitado de Perfiles",
+    "description": "Preparación de materiales y piezas estructurales en taller."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.55 PM (1).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "baranda-reja-modular.jpeg",
+    "path": "img/galeria/herreria/baranda-reja-modular.jpeg",
+    "title": "Baranda Metálica Modular",
+    "description": "Baranda de seguridad para escaleras y balcones."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.55 PM (2).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "porton-industrial-amarillo.jpeg",
+    "path": "img/galeria/herreria/porton-industrial-amarillo.jpeg",
+    "title": "Portón Industrial de Acceso",
+    "description": "Portón pesado corredizo para galpón comercial."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.55 PM (3).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "porton-corredizo-galpon.jpeg",
+    "path": "img/galeria/herreria/porton-corredizo-galpon.jpeg",
+    "title": "Portón Corredizo con Rodajes",
+    "description": "Sistema de rodamiento suave y guía inferior reforzada."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.55 PM (4).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "pasillo-techo-metalico.jpeg",
+    "path": "img/galeria/estructuras-techos/pasillo-techo-metalico.jpeg",
+    "title": "Techado Metálico de Pasillo",
+    "description": "Cubierta para pasillo de circulación y protección de lluvia."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.55 PM (5).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "paneles-puertas-negras.jpeg",
+    "path": "img/galeria/herreria/paneles-puertas-negras.jpeg",
+    "title": "Puertas de Protección Negra",
+    "description": "Paneles de herrería con acabado anticorrosivo negro mate."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.55 PM (6).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "techo-laminas-translucidas.jpeg",
+    "path": "img/galeria/estructuras-techos/techo-laminas-translucidas.jpeg",
+    "title": "Techo con Iluminación Natural",
+    "description": "Estructura metálica con combinación de láminas traslúcidas."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.55 PM.jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "puerta-seguridad-vidrio.jpeg",
+    "path": "img/galeria/herreria/puerta-seguridad-vidrio.jpeg",
+    "title": "Puerta Metálica con Vidrio",
+    "description": "Puerta para entrada con recuadro para vidrio de seguridad."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.56 PM (1).jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "porton-garaje-instalado.jpeg",
+    "path": "img/galeria/herreria/porton-garaje-instalado.jpeg",
+    "title": "Portón de Garaje Residencial",
+    "description": "Portón batiente instalado con pasadores de seguridad."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.56 PM (2).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "estructura-galpon-inferior.jpeg",
+    "path": "img/galeria/estructuras-techos/estructura-galpon-inferior.jpeg",
+    "title": "Armazón Interior de Galpón",
+    "description": "Cerchas continuas para cubierta de gran luz libre."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.19.56 PM.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "cubierta-translucida-metal.jpeg",
+    "path": "img/galeria/estructuras-techos/cubierta-translucida-metal.jpeg",
+    "title": "Techo Metálico Traslúcido",
+    "description": "Estructura de perfiles para paso de luz natural."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.23.04 PM.jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "muro-ladrillo-reja.jpeg",
+    "path": "img/galeria/herreria/muro-ladrillo-reja.jpeg",
+    "title": "Muro Perimetral con Reja",
+    "description": "Rejas protectoras empotradas sobre muro de ladrillo visto."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.23.04 PM1.jpeg",
+    "category": "remodelacion-obras",
+    "category_label": "Remodelación y Obras",
+    "filename": "remodelacion-terraza-social.jpeg",
+    "path": "img/galeria/remodelacion-obras/remodelacion-terraza-social.jpeg",
+    "title": "Remodelación de Terraza",
+    "description": "Adecuación de área social exterior con pisos y mampostería."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.23.05 PM.jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "reja-seguridad-blanca.jpeg",
+    "path": "img/galeria/herreria/reja-seguridad-blanca.jpeg",
+    "title": "Reja para Ventana Blanca",
+    "description": "Diseño de reja reforzada para residencia."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.23.06 PM.jpeg",
+    "category": "herreria",
+    "category_label": "Herrería y Portones",
+    "filename": "paneles-reja-pesada.jpeg",
+    "path": "img/galeria/herreria/paneles-reja-pesada.jpeg",
+    "title": "Reja Pesada de Protección",
+    "description": "Módulos de herrería para cierre perimetral seguro."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.45 PM (1).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "techo-metalico-blanco.jpeg",
+    "path": "img/galeria/estructuras-techos/techo-metalico-blanco.jpeg",
+    "title": "Cubierta Metálica Termoacústica",
+    "description": "Instalación de láminas para techo con aislamiento."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.45 PM (2).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "detalle-instalacion-techo.jpeg",
+    "path": "img/galeria/estructuras-techos/detalle-instalacion-techo.jpeg",
+    "title": "Fijación y Sellado de Techo",
+    "description": "Detalle de pernos autoperforantes y selladores anticorrosivos."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.46 PM (1).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "cerchas-techo-industrial.jpeg",
+    "path": "img/galeria/estructuras-techos/cerchas-techo-industrial.jpeg",
+    "title": "Cerchas de Techo Industrial",
+    "description": "Fabricación de cerchas trianguladas de alta resistencia."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.46 PM.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "laminas-acero-techo.jpeg",
+    "path": "img/galeria/estructuras-techos/laminas-acero-techo.jpeg",
+    "title": "Láminas para Cubierta de Techo",
+    "description": "Materiales preparados para montaje en obra."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.52 PM (1).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "estructura-galpon-obra.jpeg",
+    "path": "img/galeria/estructuras-techos/estructura-galpon-obra.jpeg",
+    "title": "Montaje Estructural de Galpón",
+    "description": "Izado e instalación de columnas y vigas de acero."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.52 PM.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "soldador-estructura-techo.jpeg",
+    "path": "img/galeria/estructuras-techos/soldador-estructura-techo.jpeg",
+    "title": "Trabajo de Soldadura en Altura",
+    "description": "Soldadura calificada de uniones y cartelas en estructura."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.53 PM (1).jpeg",
+    "category": "remodelacion-obras",
+    "category_label": "Remodelación y Obras",
+    "filename": "base-columna-viga.jpeg",
+    "path": "img/galeria/remodelacion-obras/base-columna-viga.jpeg",
+    "title": "Anclaje y Base Estructural",
+    "description": "Placa base anclada con pernos para soporte de columna."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.53 PM (2).jpeg",
+    "category": "taller-reparaciones",
+    "category_label": "Taller y Soldadura",
+    "filename": "perfiles-vigas-acero.jpeg",
+    "path": "img/galeria/taller-reparaciones/perfiles-vigas-acero.jpeg",
+    "title": "Perfiles IPE y Tubulares",
+    "description": "Material de herrería pesada listo para transformación."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.53 PM (3).jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "columna-techo-detalle.jpeg",
+    "path": "img/galeria/estructuras-techos/columna-techo-detalle.jpeg",
+    "title": "Encuentro Columna y Techo",
+    "description": "Unión apernada y soldada para máxima rigidez estructural."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-13 at 9.25.53 PM.jpeg",
+    "category": "estructuras-techos",
+    "category_label": "Estructuras y Techos",
+    "filename": "transporte-estructuras.jpeg",
+    "path": "img/galeria/estructuras-techos/transporte-estructuras.jpeg",
+    "title": "Logística y Traslado de Obras",
+    "description": "Despacho de piezas de gran tamaño desde taller hacia la obra."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.14 PM.jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-01.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.14 PM.jpeg",
+    "title": "Reja de Protección Residencial",
+    "description": "Reja metálica de seguridad fabricada a medida para residencia."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.15 PM.jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-02.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.15 PM.jpeg",
+    "title": "Reja de Seguridad para Ventana",
+    "description": "Protección metálica con barras verticales y acabado anticorrosivo."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.16 PM (1).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-03.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.16 PM (1).jpeg",
+    "title": "Panel de Reja Instalado",
+    "description": "Instalación de panel de reja en fachada de vivienda."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.16 PM.jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-04.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.16 PM.jpeg",
+    "title": "Reja Perimetral de Acero",
+    "description": "Cerramiento perimetral con rejas de acero soldadas y pintadas."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.17 PM (1).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-05.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.17 PM (1).jpeg",
+    "title": "Reja con Diseño Decorativo",
+    "description": "Reja de herrería con detalles decorativos y acabado negro mate."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.17 PM (2).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-06.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.17 PM (2).jpeg",
+    "title": "Protección Metálica para Entrada",
+    "description": "Reja de acceso peatonal con pasador de seguridad reforzado."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.17 PM (3).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-07.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.17 PM (3).jpeg",
+    "title": "Reja Modular de Alta Resistencia",
+    "description": "Sistema de rejas modulares para cerramiento de locales comerciales."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.17 PM (4).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-08.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.17 PM (4).jpeg",
+    "title": "Reja de Barras Cuadradas",
+    "description": "Fabricación en barras cuadradas de acero con marco reforzado."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.17 PM (5).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-09.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.17 PM (5).jpeg",
+    "title": "Reja de Seguridad con Puntas",
+    "description": "Protección perimetral con puntas de lanza anticintrado."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.17 PM.jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-10.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.17 PM.jpeg",
+    "title": "Reja para Puerta de Acceso",
+    "description": "Reja con bisagras soldadas para puerta de acceso lateral."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.18 PM (1).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-11.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.18 PM (1).jpeg",
+    "title": "Cerramiento con Reja Soldada",
+    "description": "Conjunto de rejas soldadas para cerco de terreno residencial."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.18 PM (2).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-12.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.18 PM (2).jpeg",
+    "title": "Reja Pequeña para Ventana",
+    "description": "Reja compacta de protección para ventana pequeña de baño."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.18 PM (3).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-13.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.18 PM (3).jpeg",
+    "title": "Reja Pesada de Doble Barra",
+    "description": "Sistema de doble barra para máxima resistencia en zona de alto riesgo."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.18 PM (4).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-14.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.18 PM (4).jpeg",
+    "title": "Reja Instalada en Fachada",
+    "description": "Reja de acero anclada a la fachada con acabado anticorrosivo."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.18 PM.jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-15.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.18 PM.jpeg",
+    "title": "Reja Liviana para Interior",
+    "description": "Protección liviana de interior con acabado en esmalte."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.19 PM (1).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-16.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.19 PM (1).jpeg",
+    "title": "Reja de Barras Redondas",
+    "description": "Fabricación en barras redondas con diseño clásico y resistente."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.19 PM (2).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-17.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.19 PM (2).jpeg",
+    "title": "Panel de Seguridad Metálico",
+    "description": "Panel de reja de seguridad para protección de zona comercial."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.19 PM (3).jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-18.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.19 PM (3).jpeg",
+    "title": "Reja con Marco Anclado",
+    "description": "Marco de reja con anclajes de expansión en pared de concreto."
+  },
+  {
+    "orig": "WhatsApp Image 2026-10-19 at 7.47.19 PM.jpeg",
+    "category": "rejas",
+    "category_label": "Rejas y Protecciones",
+    "filename": "reja-proteccion-19.jpeg",
+    "path": "img/galeria/rejas/WhatsApp Image 2026-10-19 at 7.47.19 PM.jpeg",
+    "title": "Reja de Protección Terminada",
+    "description": "Proyecto de rejas completado con pintura anticorrosiva de acabado."
+  }
+]
