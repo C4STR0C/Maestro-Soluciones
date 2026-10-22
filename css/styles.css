@@ -1,0 +1,558 @@
+/* ==========================================================================
+   MAESTRO SOLUCIONES - PORTAL PRINCIPAL
+   Guarenas · Guatire · Caracas
+   ========================================================================== */
+
+/* 1. FUENTES AUTOALOJADAS */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/barlow-v13-latin-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/barlow-v13-latin-500.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/barlow-v13-latin-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/bebas-neue-v16-latin.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Antonio';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/antonio-v22-latin-600.woff2') format('woff2');
+}
+
+/* 2. VARIABLES */
+:root {
+  --vino: #7b161b;
+  --vino-hover: #9c1c22;
+  --vino-oscuro: #580e12;
+  --vino-suave: #fbf5f5;
+  --vino-borde: #edd5d6;
+  --wa: #25d366;
+  --wa-hover: #1da851;
+  --fondo: #ffffff;
+  --fondo-alt: #f8fafc;
+  --fondo-tarjeta: #ffffff;
+  --texto: #1a1a1a;
+  --texto-mutado: #555c68;
+  --borde: #e2e8f0;
+  --sombra: 0 4px 20px rgba(0, 0, 0, 0.05);
+  --sombra-hover: 0 12px 32px rgba(123, 22, 27, 0.12);
+  --radio: 14px;
+  --radio-sm: 8px;
+  --fuente: 'Barlow', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --titulo: 'Bebas Neue', 'Antonio', sans-serif;
+}
+
+/* 3. RESET & BASE */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--fuente);
+  background-color: var(--fondo);
+  color: var(--texto);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.wrap {
+  width: 100%;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* 4. HEADER */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--borde);
+  padding: 0.85rem 0;
+}
+
+.header-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.brand-logo {
+  height: 42px;
+  width: auto;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.btn-header-social {
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radio-sm);
+  background: var(--fondo-alt);
+  border: 1px solid var(--borde);
+  color: var(--texto);
+  transition: all 0.2s ease;
+}
+
+.btn-header-social:hover {
+  background: var(--vino-suave);
+  color: var(--vino);
+  border-color: var(--vino-borde);
+}
+
+.social-svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+.btn-header-wa {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--wa);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 0.55rem 1.1rem;
+  border-radius: var(--radio-sm);
+  transition: all 0.2s ease;
+}
+
+.btn-header-wa:hover {
+  background: var(--wa-hover);
+  transform: translateY(-1px);
+}
+
+.btn-icono {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+/* 5. HERO INTRODUCTORIO */
+.hub-hero {
+  padding: 4rem 0 2rem;
+  text-align: center;
+  background: linear-gradient(180deg, var(--vino-suave) 0%, rgba(255,255,255,0) 100%);
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #fff;
+  border: 1px solid var(--vino-borde);
+  color: var(--vino);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+
+.badge-dot {
+  width: 8px;
+  height: 8px;
+  background: var(--vino);
+  border-radius: 50%;
+}
+
+.hub-hero h1 {
+  font-family: var(--titulo);
+  font-size: clamp(2.6rem, 6vw, 4.2rem);
+  letter-spacing: 0.04em;
+  color: var(--texto);
+  line-height: 1.05;
+  margin-bottom: 1rem;
+}
+
+.hub-hero h1 span.marca-roja {
+  color: var(--vino);
+}
+
+.hub-hero-desc {
+  max-width: 680px;
+  margin: 0 auto 2rem;
+  font-size: 1.15rem;
+  color: var(--texto-mutado);
+  line-height: 1.55;
+}
+
+.hub-cobertura {
+  display: inline-flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--texto);
+  background: #fff;
+  border: 1px solid var(--borde);
+  padding: 0.5rem 1.25rem;
+  border-radius: 999px;
+}
+
+/* 6. GRID DE SUBDOMINIOS */
+.seccion-subdominios {
+  padding: 3rem 0 5rem;
+  flex: 1;
+}
+
+.subdominios-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.subdominio-card {
+  background: var(--fondo-tarjeta);
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--sombra);
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.subdominio-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--sombra-hover);
+  border-color: var(--vino-borde);
+}
+
+.card-img-wrap {
+  position: relative;
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  background: #f1f5f9;
+}
+
+.card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.subdominio-card:hover .card-img-wrap img {
+  transform: scale(1.06);
+}
+
+.card-category-badge {
+  position: absolute;
+  bottom: 12px;
+  left: 14px;
+  background: rgba(17, 20, 24, 0.85);
+  backdrop-filter: blur(6px);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.card-body {
+  padding: 1.75rem 1.75rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.card-top {
+  margin-bottom: 1.75rem;
+}
+
+.subdominio-card h2 {
+  font-family: var(--titulo);
+  font-size: 2.1rem;
+  letter-spacing: 0.03em;
+  color: var(--texto);
+  line-height: 1.15;
+  margin-bottom: 0.65rem;
+}
+
+.subdominio-card p {
+  font-size: 0.98rem;
+  color: var(--texto-mutado);
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+}
+
+.card-features {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  border-top: 1px dashed var(--borde);
+  padding-top: 1.1rem;
+}
+
+.card-features li {
+  font-size: 0.9rem;
+  color: var(--texto);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.card-features li::before {
+  content: '✓';
+  color: var(--vino);
+  font-weight: 800;
+}
+
+.card-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.btn-card-primary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: var(--vino);
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.85rem 1.25rem;
+  border-radius: var(--radio-sm);
+  transition: all 0.2s ease;
+  text-align: center;
+}
+
+.btn-card-primary:hover {
+  background: var(--vino-hover);
+  transform: translateY(-2px);
+}
+
+.btn-card-wa {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  background: var(--fondo-alt);
+  color: #1a1a1a;
+  border: 1px solid var(--borde);
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.65rem 1rem;
+  border-radius: var(--radio-sm);
+  transition: all 0.2s ease;
+}
+
+.btn-card-wa:hover {
+  background: #f0fdf4;
+  color: #166534;
+  border-color: #bbf7d0;
+}
+
+/* 7. BANNER DE CONTACTO DIRECTO */
+.hub-banner-contacto {
+  background: #111418;
+  color: #fff;
+  padding: 3.5rem 0;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.banner-contacto-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.banner-contacto-texto h3 {
+  font-family: var(--titulo);
+  font-size: 2.2rem;
+  letter-spacing: 0.04em;
+  line-height: 1.1;
+  margin-bottom: 0.5rem;
+}
+
+.banner-contacto-texto p {
+  color: #94a3b8;
+  font-size: 1.05rem;
+  max-width: 580px;
+}
+
+.btn-wa-hero {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--wa);
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 1rem 1.75rem;
+  border-radius: var(--radio-sm);
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 16px rgba(37, 211, 102, 0.25);
+}
+
+.btn-wa-hero:hover {
+  background: var(--wa-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.35);
+}
+
+.btn-wa-hero-icon {
+  width: 24px;
+  height: 24px;
+  fill: currentColor;
+}
+
+/* 8. FOOTER */
+.site-footer {
+  background: #0b0d0f;
+  color: #cbd5e1;
+  padding: 2.5rem 0 1.5rem;
+  border-top: 1px solid rgba(255,255,255,0.06);
+}
+
+.footer-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+.footer-brand {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.footer-logo {
+  height: 38px;
+  width: auto;
+}
+
+.footer-info {
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+
+.footer-info strong {
+  color: #fff;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.footer-links a:hover {
+  color: #fff;
+}
+
+.footer-copy {
+  padding-top: 1.5rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+/* 9. RESPONSIVE */
+@media (max-width: 992px) {
+  .subdominios-grid {
+    grid-template-columns: 1fr;
+    max-width: 540px;
+    margin: 0 auto;
+  }
+  .banner-contacto-wrap {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .hub-hero {
+    padding: 3rem 0 1.5rem;
+  }
+  .subdominio-card {
+    padding: 1.75rem 1.5rem;
+  }
+  .footer-wrap {
+    flex-direction: column;
+    text-align: center;
+  }
+  .footer-brand {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+}

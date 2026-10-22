@@ -1,0 +1,26 @@
+# Cloudflare Pages Headers Configuration
+# Reglas de seguridad y caché optimizadas para rendimiento global
+
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Caché para documentos HTML (siempre actualizados)
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Caché para estilos y scripts
+/css/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/js/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+# Caché para imágenes y tipografías (inmutables por 1 año)
+/img/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
