@@ -227,6 +227,7 @@ img {
 }
 
 .hub-hero h1 span.marca-roja {
+  display: block;
   color: var(--vino);
 }
 
@@ -250,6 +251,28 @@ img {
   border: 1px solid var(--borde);
   padding: 0.5rem 1.25rem;
   border-radius: 999px;
+}
+
+.hub-cobertura span,
+.hub-cobertura a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.hub-cobertura a:hover {
+  color: var(--vino);
+}
+
+.ico {
+  width: 1.1em;
+  height: 1.1em;
+  flex-shrink: 0;
+  fill: none;
+  stroke: var(--vino);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 /* 6. GRID DE SUBDOMINIOS */
@@ -415,6 +438,108 @@ img {
   border-color: #bbf7d0;
 }
 
+/* 6b. CÓMO TRABAJAMOS Y PREGUNTAS FRECUENTES */
+.hub-seccion {
+  padding: 0 0 4.5rem;
+}
+
+.hub-seccion-titulo {
+  font-family: var(--titulo);
+  font-size: clamp(2rem, 4vw, 2.6rem);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  line-height: 1.1;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.pasos-grid {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.paso {
+  background: var(--fondo-alt);
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  padding: 1.75rem 1.5rem;
+}
+
+.paso-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  background: var(--vino);
+  color: #fff;
+  font-family: var(--titulo);
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.paso h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.paso p {
+  color: var(--texto-mutado);
+  font-size: 0.98rem;
+}
+
+.faq-lista {
+  max-width: 780px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.faq-item {
+  background: #fff;
+  border: 1px solid var(--borde);
+  border-radius: var(--radio-sm);
+  box-shadow: var(--sombra);
+}
+
+.faq-item summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-item summary::after {
+  content: '+';
+  color: var(--vino);
+  font-size: 1.5rem;
+  line-height: 1;
+  transition: transform 0.2s ease;
+}
+
+.faq-item[open] summary::after {
+  transform: rotate(45deg);
+}
+
+.faq-item p {
+  padding: 0 1.25rem 1.1rem;
+  color: var(--texto-mutado);
+}
+
 /* 7. BANNER DE CONTACTO DIRECTO */
 .hub-banner-contacto {
   background: #111418;
@@ -431,7 +556,7 @@ img {
   flex-wrap: wrap;
 }
 
-.banner-contacto-texto h3 {
+.banner-contacto-texto h2 {
   font-family: var(--titulo);
   font-size: 2.2rem;
   letter-spacing: 0.04em;
@@ -528,6 +653,11 @@ img {
 
 /* 9. RESPONSIVE */
 @media (max-width: 992px) {
+  .pasos-grid {
+    grid-template-columns: 1fr;
+    max-width: 540px;
+    margin: 0 auto;
+  }
   .subdominios-grid {
     grid-template-columns: 1fr;
     max-width: 540px;
@@ -544,8 +674,8 @@ img {
   .hub-hero {
     padding: 3rem 0 1.5rem;
   }
-  .subdominio-card {
-    padding: 1.75rem 1.5rem;
+  .card-body {
+    padding: 1.5rem 1.25rem 1.75rem;
   }
   .footer-wrap {
     flex-direction: column;
