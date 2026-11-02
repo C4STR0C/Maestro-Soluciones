@@ -219,7 +219,7 @@ img {
 
 .hub-hero h1 {
   font-family: var(--titulo);
-  font-size: clamp(2.6rem, 6vw, 4.2rem);
+  font-size: clamp(2.1rem, 6vw, 4.2rem);
   letter-spacing: 0.04em;
   color: var(--texto);
   line-height: 1.05;
@@ -233,7 +233,7 @@ img {
 
 .hub-hero-desc {
   max-width: 680px;
-  margin: 0 auto 2rem;
+  margin: 0 auto;
   font-size: 1.15rem;
   color: var(--texto-mutado);
   line-height: 1.55;
@@ -568,6 +568,19 @@ img {
   color: #94a3b8;
   font-size: 1.05rem;
   max-width: 580px;
+}
+
+.banner-maps {
+  display: inline-block;
+  margin-top: 0.75rem;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.banner-maps:hover {
+  color: var(--wa);
 }
 
 .btn-wa-hero {
